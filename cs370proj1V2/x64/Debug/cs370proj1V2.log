@@ -1,0 +1,4 @@
+﻿  cs370proj1V2.cpp
+d:\documents\visual studio 2015\projects\cs370assign1\cs370proj1v2\cs370proj1v2.cpp(49): warning C4553: '==': operator has no effect; did you intend '='?
+  cs370proj1V2.vcxproj -> D:\Documents\Visual Studio 2015\Projects\cs370assign1\x64\Debug\cs370proj1V2.exe
+  cs370proj1V2.vcxproj -> D:\Documents\Visual Studio 2015\Projects\cs370assign1\x64\Debug\cs370proj1V2.pdb (Full PDB)
